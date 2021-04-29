@@ -191,7 +191,7 @@ body{
     color: #3525af;
 }
 .header .role{
-    font-weight: 300;
+    font-weight: bold;
     font-size: 20px;
 }
 .header .about{
