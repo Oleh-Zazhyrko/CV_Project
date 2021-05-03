@@ -27,7 +27,6 @@ body{
 
 .right{
     width: calc(100% - 250px);
-
 }
 
 .left .img-holder{
@@ -121,6 +120,7 @@ body{
     flex-direction: column;
     align-items: center;
     justify-content: center;
+    padd
 }
 
 .skills .li-wrap,
@@ -258,4 +258,9 @@ body{
     width: 2px;
     height: 90%;
     background: #538ac9;    
+}
+
+.feedback {
+    display: none;      
+    color: #fff;    
 }
